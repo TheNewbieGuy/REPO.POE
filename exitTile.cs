@@ -13,6 +13,6 @@ namespace POE
         {
             get { return '▓'; }
 
-        }
+        }//heloo
     }
 }
